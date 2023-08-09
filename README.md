@@ -2,7 +2,7 @@
 
 No notebook que pode ser encontrado nesse repositório em .ipynb, realizei uma análise exploratória do dataset "Covid-19 Deaths and Vaccinations". O objetivo foi responder perguntas previamente acordadas entre os colegas por meio de análise do dataset utilizando as bibliotecas Pandas e Seaborn.
 
-### ℹ️ Fonte dos Dados
+## ℹ️ Fonte dos Dados
 Os dados utilizados foram obtidos no Kaggle a partir do seguinte link: [Dataset Disney Plus Shows on Kaggle]([https://www.kaggle.com/datasets/unanimad/disney-plus-shows](https://www.kaggle.com/datasets/tohidkhanbagani/covid-19-deaths-and-vaccinations-dataset?select=COVID_VACCINATIONS.csv)).
 
 ## 📚 Bibliotecas Utilizadas
