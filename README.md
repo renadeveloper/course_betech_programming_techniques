@@ -15,7 +15,9 @@ Durante a análise, foram utilizadas as seguintes bibliotecas:
 
 1. Instalação de Bibliotecas e Importação das Bases de Dados: Nesta etapa, foram instaladas as bibliotecas necessárias e importado o dataset Covid-19 Deaths and Vaccinations utilizando a biblioteca pandas.
 
-2. Análise Exploratória de Dadosa: Realizei uma análise exploratória dos dados dos dados, explorando as informações contidas nas colunas. As análises realizadas incluíram o tratamento dos dados, respostas das perguntas previamente acordadas e visualizações dos dados.
+2. Limpeza dos Dados: Nessa etapa foram removidas informações erroneamente contidas no anteriormente nas bases de dados. 
+
+3. Análise Exploratória de Dadosa: Realizei uma análise exploratória dos dados, explorando as informações contidas nas colunas. As análises realizadas incluíram o tratamento dos dados, respostas das perguntas previamente acordadas e visualizações dos dados.
 
 ## 🚀 Responsável pelo Projeto
 
